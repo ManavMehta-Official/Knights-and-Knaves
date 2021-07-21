@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Understanding the riddle of Knights and Knaves!
 
-You can use the [editor on GitHub](https://github.com/ManavMehta-Official/Knights-and-Knaves/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Knights and Knaves is a type of logic puzzle where some characters can only answer questions truthfully, and others only falsely. The name was coined by Raymond Smullyan in his 1978 work What Is the Name of This Book? <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The puzzles are set on a fictional island where all inhabitants are either knights, who always tell the truth, or knaves, who always lie. The puzzles involve a visitor to the island who meets small groups of inhabitants. Usually the aim is for the visitor to deduce the inhabitants' type from their statements, but some puzzles of this type ask for other facts to be deduced. The puzzle may also be to determine a yes-no question which the visitor can ask in order to discover a particular piece of information.
+
+
+## AI for Knights and Knaves!
+
+AI can be implemented for problem solving tasks such as riddles and puzzles. To train the AI to solve the riddle of **"Knights and Knaves"** was the main objective of this project. In the main directory of this project is a file called `logic.py`. This particular file functions as the Logical Reasoning of the AI. With the help of this particular module, we were able to train our AI to solve such puzzles. <br>
+
+`puzzle.py` is a file which contained the questions to the riddles and the basic rules on how to solve such riddles. Few the basic rules were:
+- A knight always says the truth
+- A knave always lies
+- A person can either be a Knight or a Knave
+
+## In-Depth view on the Project
+
+
 
 ### Markdown
 
