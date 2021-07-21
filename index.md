@@ -35,7 +35,7 @@ The original puzzles for this project that were used to train and test the AI we
 > **Puzzle3**, has three characters: A, B, and C. <br>
 > |---------  `A` says either “I am a knight.” or “I am a knave.”, but you don’t know which. <br>
 > |---------  `B` says “`A` said ‘I am a knave.’” <br>
-> |---------  `C`says “`A` is a knight.” <br>
+> |---------  `C` says “`A` is a knight.” <br>
 
 
 ### Markdown
