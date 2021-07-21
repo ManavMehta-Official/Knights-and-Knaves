@@ -1,2 +1,2 @@
 # Knights-and-Knaves
-AI for riddle solving and Logic
+AI for riddle solving and Logic.
