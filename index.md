@@ -16,7 +16,11 @@ The project directory also has a file called`puzzle.py` which containes the ques
 
 ## In-Depth view on the Project
 
-
+The original puzzles for this project that were used to train and test the AI were:
+> **Puzzle0**, This puzzle contain of a single character `A`.
+>   `A` says “I am both a knight and a knave.”
+<br>
+> **Puzzle1**
 
 
 ### Markdown
