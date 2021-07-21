@@ -178,7 +178,7 @@ python3 puzzle.py
 ```
 
 After running the command the AI will share its answers with you in the terminal. The answer would look like the following:
-![AI Answers]()
+![AI Answers](https://github.com/ManavMehta-Official/Knights-and-Knaves/blob/gh-pages/AI%20Puzzle%20Results.png?raw=true)
 
 
 ### Project Installation
