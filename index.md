@@ -16,7 +16,7 @@ The project directory also has a file called`puzzle.py` which containes the ques
 
 ## In-Depth view on the Project
 
-The original puzzles for this project that were used to train and test the AI were: <br>
+**The original puzzles for this project that were used to train and test the AI were: <br>**
 <br>
 <br>
 
