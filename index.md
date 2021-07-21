@@ -9,12 +9,13 @@ The puzzles are set on a fictional island where all inhabitants are either knigh
 
 AI can be implemented for problem solving tasks such as riddles and puzzles. To train the AI to solve the riddle of **"Knights and Knaves"** was the main objective of this project. In the main directory of this project is a file called `logic.py`. This particular file functions as the Logical Reasoning of the AI. With the help of this particular module, we were able to train our AI to solve such puzzles. <br>
 
-`puzzle.py` is a file which contained the questions to the riddles and the basic rules on how to solve such riddles. Few the basic rules were:
+The project directory also has a file called`puzzle.py` which containes the questions to the riddles and the basic rules on how to solve such riddles. Few the basic rules were:
 - A knight always says the truth
 - A knave always lies
 - A person can either be a Knight or a Knave
 
 ## In-Depth view on the Project
+
 
 
 
