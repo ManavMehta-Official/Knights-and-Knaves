@@ -14,4 +14,4 @@ You can customize this project! You make your own questions and write the rules 
 - cs50 official website: [cs50](https://cs50.harvard.edu/college/2021/fall/)
 - Manav Mehta on his [Instagram](https://www.instagram.com/manavmehta.official/) 
 
-#### For additional information on the project [Click Here!]()
+#### For additional information on the project [Click Here!](https://manavmehta-official.github.io/Knights-and-Knaves/)
