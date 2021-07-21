@@ -16,12 +16,26 @@ The project directory also has a file called`puzzle.py` which containes the ques
 
 ## In-Depth view on the Project
 
-The original puzzles for this project that were used to train and test the AI were:
+The original puzzles for this project that were used to train and test the AI were: <br>
+
 > **Puzzle0**, This puzzle contain of a single character `A`.<br>
 > |---------  `A` says “I am both a knight and a knave.”
 <br>
 <br>
-> **Puzzle1**
+> **Puzzle1**, has two characters: A and B. <br>
+> |---------  `A` says “We are both knaves.” <br>
+> |---------  `B` says nothing.
+<br>
+<br>
+> **Puzzle2**, has two characters: A and B. <br>
+> |---------  `A` says “We are the same kind.” <br>
+> |---------  `B` says “We are of different kinds.” <br>
+<br>
+<br>
+> **Puzzle3**, has three characters: A, B, and C. <br>
+> |---------  `A` says either “I am a knight.” or “I am a knave.”, but you don’t know which. <br>
+> |---------  `B` says “`A` said ‘I am a knave.’” <br>
+> |---------  `C`says “`A` is a knight.” <br>
 
 
 ### Markdown
