@@ -78,13 +78,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with our website or a problem related to the project? Contact me via my [Github Account](https://github.com/ManavMehta-Official) or check the [Github Status](https://www.githubstatus.com/) <br>
+Having trouble with our website or a problem related to the project? Contact me via my [Github Account](https://github.com/ManavMehta-Official) or check the [Github Status](https://www.githubstatus.com/). <br>
 <br>
 
-Contact us here: <br>
-`cs50` official website: [cs50 website](https://cs50.harvard.edu/college/2021/fall/).
+**Contact us here:** <br>
+`cs50` official website: [cs50 website](https://cs50.harvard.edu/college/2021/fall/). <br>
 `ManavMehta-Official` [Github](https://github.com/ManavMehta-Official) and [Instagram](https://www.instagram.com/manavmehta.official/) account.
-
+<br>
+<br>
 ###### For more details on the project [Click here!](https://github.com/ManavMehta-Official/Knights-and-Knaves)
 
 
