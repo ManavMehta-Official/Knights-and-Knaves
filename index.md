@@ -185,8 +185,8 @@ After running the command the AI will share its answers with you in the terminal
 
 ### Project Installation
 
-This project is open to all and is free of cost. All my source code is available in the [Project Repository]().<br> 
-You can either download from there or you can [Click here]() to directly download. <br>
+This project is open to all and is free of cost. All my source code is available in the [Project Repository](https://github.com/ManavMehta-Official/Knights-and-Knaves).<br> 
+You can either download from there or you can [Click here](https://github.com/ManavMehta-Official/Knights-and-Knaves/archive/refs/heads/main.zip) to directly download. <br>
 <br>
 Once you download, unzip the file. You will find a folder named `Knights and Knaves`, that is the project directory. In the project directory you will find 2 files, `logic.py` and `puzzle.py`.
 
