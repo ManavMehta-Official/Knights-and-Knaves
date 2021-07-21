@@ -83,6 +83,7 @@ Once you download, unzip the file. You will find a folder named `Knights and Kna
 <br>
 This python file is basically the logic module for our AI. This file is responsible for the Logical Reasoning of the program. **DO NOT CHANGE ANYTHING IN THE FILE!** as this can cause some problems for the AI. `logic.py` contains functions that are used in `puzzle.py`. These functions help the AI to solve and determine who is a knight and who is a knave.
 <br>
+<br>
 > **puzzle.py** <br>
 <br>
 This file is where all the questions and the rules to solve the puzzles are written. You are free to make changes and cutomize this file. You can make you own riddles and set the rules for the AI to solve it! To understand how to use these functions, you can go through the `logic.py` module.
