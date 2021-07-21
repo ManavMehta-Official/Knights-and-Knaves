@@ -182,14 +182,16 @@ python3 puzzle.py
 After running the command the AI will share its answers with you in the terminal. The answer would look like the following:
 ![AI Answers](https://github.com/ManavMehta-Official/Knights-and-Knaves/blob/gh-pages/AI%20Puzzle%20Results.png?raw=true)
 
-
+<br>
+<br>
 ### Project Installation
 
 This project is open to all and is free of cost. All my source code is available in the [Project Repository](https://github.com/ManavMehta-Official/Knights-and-Knaves).<br> 
 You can either download from there or you can [Click here](https://github.com/ManavMehta-Official/Knights-and-Knaves/archive/refs/heads/main.zip) to directly download. <br>
 <br>
 Once you download, unzip the file. You will find a folder named `Knights and Knaves`, that is the project directory. In the project directory you will find 2 files, `logic.py` and `puzzle.py`.
-
+<br>
+<br>
 ### Understanding the modules and the files
 
 > **logic.py** <br>
@@ -201,7 +203,7 @@ This python file is basically the logic module for our AI. This file is responsi
 <br>
 This file is where all the questions and the rules to solve the puzzles are written. You are free to make changes and cutomize this file. You can make you own riddles and set the rules for the AI to solve it! To understand how to use these functions, you can go through the `logic.py` module.
 
-
+<br>
 ### Support or Contact
 
 Having trouble with our website or a problem related to the project? Contact me via my [Github Account](https://github.com/ManavMehta-Official) or check the [Github Status](https://www.githubstatus.com/). <br>
