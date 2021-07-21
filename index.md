@@ -72,9 +72,21 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Project Installation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManavMehta-Official/Knights-and-Knaves/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This project is open to all and is free of cost. All my source code is available in the [Project Repository](). You either download from there or you can [Click here]() to directly download. <br>
+Once you download, unzip the file. You will find a folder named `Knights and Knaves`, that is the project directory. Inthe project directory you will find 2 files, `logic.py` and `puzzle.py`.
+
+### Understanding the modules and the files
+
+> **logic.py**
+<br>
+This python file is basically the logic module for our AI. This file is responsible for the Logical Reasoning of the program. **DO NOT CHANGE ANYTHING IN THE FILE!** as this can cause some problems for the AI. `logic.py` contains functions that are used in `puzzle.py`. These functions help the AI to solve and determine who is a knight and who is a knave.
+<br>
+> **puzzle.py**
+<br>
+This file is where all the questions and the rules to solve the puzzles are written. You are free to make changes and cutomize this file. You can make you own riddles and set the rules for the AI to solve it! To understand how to use these functions, you can go through the `logic.py` module.
+
 
 ### Support or Contact
 
