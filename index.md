@@ -41,7 +41,7 @@ The project directory also has a file called`puzzle.py` which containes the ques
 <br>
 <br>
 
-**NOTE:** All of the puzzles are different i.e. they are not connected with each other in any way. Example: `A` might be a knight in `Puzzle0` but might be a knave in `Puzzle1`.
+**NOTE:** All of the puzzles are different i.e. they are not connected to each other in any way. Example: `A` might be a knight in `Puzzle0` but in `Puzzle1` `A` might be a knave.
 <br>
 <br>
 
