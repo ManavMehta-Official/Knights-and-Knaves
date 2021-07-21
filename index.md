@@ -20,6 +20,7 @@ The original puzzles for this project that were used to train and test the AI we
 > **Puzzle0**, This puzzle contain of a single character `A`.
 >   `A` says “I am both a knight and a knave.”
 <br>
+<br>
 > **Puzzle1**
 
 
