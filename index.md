@@ -166,7 +166,7 @@ if __name__ == "__main__":
     main()
 
 ```
-##### To run the project hover over to puzzle.py and run the program! or you can use terminal or command prompt to run the project. (You would need logic.py to run the project. The link to ddownload is below under the `Project Installation Category`) <br>
+###### To run the project hover over to puzzle.py and run the program! or you can use terminal or command prompt to run the project. (You would need logic.py to run the project. The link to ddownload is below under the `Project Installation Category`) <br>
 
 #### Running through Terminal
 
