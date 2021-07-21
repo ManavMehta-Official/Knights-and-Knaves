@@ -38,6 +38,11 @@ The original puzzles for this project that were used to train and test the AI we
 > |---------  `A` says either “I am a knight.” or “I am a knave.”, but you don’t know which. <br>
 > |---------  `B` says “`A` said ‘I am a knave.’” <br>
 > |---------  `C` says “`A` is a knight.” <br>
+<br>
+<br>
+
+**NOTE:** All of the puzzles are different i.e. they are not connected with each other in any way. Example: `A` might be a knight in `Puzzle0` but might be a knave in `Puzzle1`.
+
 
 
 ### Markdown
