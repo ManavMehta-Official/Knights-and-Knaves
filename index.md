@@ -74,7 +74,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Project Installation
 
-This project is open to all and is free of cost. All my source code is available in the [Project Repository](). You either download from there or you can [Click here]() to directly download. <br>
+This project is open to all and is free of cost. All my source code is available in the [Project Repository](). You can either download from there or you can [Click here]() to directly download. <br>
 Once you download, unzip the file. You will find a folder named `Knights and Knaves`, that is the project directory. Inthe project directory you will find 2 files, `logic.py` and `puzzle.py`.
 
 ### Understanding the modules and the files
